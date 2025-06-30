@@ -1,9 +1,9 @@
 public class TestBank {
     public static void main(String[] args) {
         BankAccount acc = new BankAccount();
-        acc.setAccountHolder("Fardin Islam");
-        acc.setAccountNumber("123456789");
-        acc.setBalance(5000.00);
+        acc.setAccountHolder("Tafhim");
+        acc.setAccountNumber("12349876");
+        acc.setBalance(7000.00);
 
         acc.displayAccountInfo();
     }
